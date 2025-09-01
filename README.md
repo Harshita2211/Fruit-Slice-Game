@@ -10,8 +10,7 @@ Slice fruits, score points, enjoy background music, and avoid the bombs – a fu
 -  Fruits dynamically generated with **jQuery**  
 -  Smooth slicing animations and effects  
 -  Score tracking system  
--  Background music for an engaging experience  
--  Random bombs that end the game when sliced  
+-  Background music for an engaging experience    
 
 ---
 
